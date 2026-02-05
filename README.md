@@ -36,14 +36,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3"/>
 
-## 🐍✨ Minhas contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SouzaSther/SouzaSther/output/github-contribution-grid-snake-pink.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3"/>
-
 ## 💖 Projetos em Destaque (Portfólio)
 
 🌸 Aqui estão alguns projetos que estou construindo com carinho:
