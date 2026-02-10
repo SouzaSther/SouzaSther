@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=header"/>
 
-<h1 align="center">🌸✨ Hello World! Eu sou Stephany Souza ✨🌸</h1>
+<h1 align="center">🌸 Hello World! Eu sou Stephany Souza 🌸</h1>
 
 <p align="center">
   💻 Front-end • 🎀 Criatividade • 🌷 Evoluindo todos os dias  
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-🌸✨🌷✨🌸✨🌷✨🌸✨🌷✨🌸
+
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3"/>
@@ -36,16 +36,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3"/>
 
-## 💖 Projetos em Destaque (Portfólio)
+## 💖 Portfólio
 
-🌸 Aqui estão alguns projetos que estou construindo com carinho:
-
-- ✨ **Meu Portfólio Pessoal** — Em breve  
-- 🎀 **Landing Page Aesthetic Rosa** — HTML + CSS  
-- 💻 **Projeto em React** — Aprendendo componentes  
-- 🌷 **Sistema simples com Vue.js** — Estudos e prática  
-
-📌 *Sempre atualizando com novos projetos!*  
+🌸 **Meu Portfólio Pessoal** https://stephany-dev.centralizou.com/ 🌸
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3"/>
 
@@ -70,8 +63,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3"/>
 
 <p align="center">
-🌸✨ Obrigada por visitar meu perfil!  
-Volte sempre para acompanhar minha jornada 💖  
+🌸 Obrigada por visitar meu perfil!  
+Volte sempre para acompanhar minha jornada 🌸 
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=footer"/>
