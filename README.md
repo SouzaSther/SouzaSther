@@ -1,6 +1,6 @@
 <!-- Identidade visual original para SouzaSther. Os arquivos em assets fazem parte deste README. -->
 <p align="center">
-  <img src="./assets/header.png" width="100%" alt="Stephany Souza — Front-end Developer & Social Media. Um ateliê digital com laços rosas e pérolas." />
+  <img src="./header.png" width="100%" alt="Stephany Souza — Front-end Developer & Social Media. Um ateliê digital com laços rosas e pérolas." />
 </p>
 
 <p align="center"><b>🎀 Design que encanta. Código que dá vida.</b><br /><sub>Meu cantinho para transformar ideias em experiências digitais.</sub></p>
@@ -11,7 +11,7 @@
   <a href="mailto:stephanypontes3@gmail.com"><img src="https://img.shields.io/badge/VAMOS%20CONVERSAR-F8DFE9?style=for-the-badge" alt="Fale comigo por e-mail" /></a>
 </p>
 
-<img src="./assets/about.png" width="100%" alt="01 — Por trás do laço" />
+<img src="./about.png" width="100%" alt="01 — Por trás do laço" />
 
 Olá! Eu sou a **Stephany Souza**, desenvolvedora front-end e social media. Gosto de unir **design, tecnologia e criatividade** para criar interfaces modernas e responsivas e dar vida a conteúdos e experiências digitais.
 
@@ -22,7 +22,7 @@ Olá! Eu sou a **Stephany Souza**, desenvolvedora front-end e social media. Gost
 
 <p align="center"><i>“Entre ideias, cores e linhas de código, vou construindo a minha própria história.”</i></p>
 
-<img src="./assets/stack.png" width="100%" alt="02 — Minha caixinha de ferramentas" />
+<img src="./stack.png" width="100%" alt="02 — Minha caixinha de ferramentas" />
 
 <p align="center"><b>Na minha bancada criativa</b></p>
 <p align="center">
@@ -42,8 +42,8 @@ Olá! Eu sou a **Stephany Souza**, desenvolvedora front-end e social media. Gost
 </p>
 <p align="center"><sub>Aprender → experimentar → construir → evoluir ♡</sub></p>
 
-<img src="./assets/ribbon-divider.png" width="100%" alt="Laço rosa delicado" />
-<img src="./assets/projects.png" width="100%" alt="03 — Ideias que ganharam forma" />
+<img src="./ribbon-divider.png" width="100%" alt="Laço rosa delicado" />
+<img src="./projects.png" width="100%" alt="03 — Ideias que ganharam forma" />
 
 <table>
   <tr>
@@ -78,7 +78,7 @@ Olá! Eu sou a **Stephany Souza**, desenvolvedora front-end e social media. Gost
 
 <p align="center"><a href="https://github.com/SouzaSther?tab=repositories">♡ Explore os meus outros projetos</a></p>
 
-<img src="./assets/connect.png" width="100%" alt="04 — Vamos criar conexões?" />
+<img src="./connect.png" width="100%" alt="04 — Vamos criar conexões?" />
 
 <p align="center">Tem uma ideia bonita para tirar do papel?<br /><b>Vou adorar conhecer você e conversar sobre novos projetos.</b></p>
 
@@ -88,4 +88,5 @@ Olá! Eu sou a **Stephany Souza**, desenvolvedora front-end e social media. Gost
   <a href="mailto:stephanypontes3@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-F8DFE9?style=for-the-badge&logo=gmail&logoColor=85435D" alt="E-mail: stephanypontes3@gmail.com" /></a>
 </p>
 
-<p align="center"><img src="./assets/footer.png" width="100%" alt="Obrigada por visitar meu cantinho. Feito de curiosidade, código e um pouquinho de rosa." /></p>
+<p align="center"><img src="./footer.png" width="100%" alt="Obrigada por visitar meu cantinho. Feito de curiosidade, código e um pouquinho de rosa." /></p>
+
